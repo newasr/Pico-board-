@@ -12,11 +12,10 @@ This project is a replica of the Raspberry Pi Pico board, designed from scratch 
 ## Design Files
 - **Schematics:**  
   ![Schematic](https://github.com/newasr/Pico-board-/blob/main/assets/Schematic.png)
-- **PCB Layout:**
 - **Final Product (3D View):**  
   ![Final Product](https://github.com/newasr/Pico-board-/blob/main/assets/Final%20Prodcut.png)
 - **BOM (Bill of Materials):** [Link to BOM](https://github.com/newasr/Pico-board-/tree/main/bom)
-- **3D View:** [Download STEP File](https://github.com/newasr/Pico-board-/blob/main/assets/my-template.stl)
+- **3D View:** [Link](https://github.com/newasr/Pico-board-/blob/main/assets/my-template.stl)
 
 ## Contributing
 Feel free to open issues or submit pull requests to improve this project.
